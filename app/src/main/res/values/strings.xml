@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EX5</string>
+    <string name="url_text">http://www.baidu.com/</string>
+    <string name="btn_text">浏览</string>
+    <string name="ie_text">显示浏览网页内容</string>
+</resources>
