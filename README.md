@@ -132,8 +132,8 @@
 
 </LinearLayout>
 #### MainActivity
-#####
-public class MainActivity extends AppCompatActivity implements View.OnClickListener{
+##### 
+    public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
     private Button btn_go;
     private EditText et_url;
